@@ -45,5 +45,6 @@ git clone https://github.com/mirmika/git-collaboration-lab.git
 Open index.html in your browser to view the page.
 
 🎓 Bootcamp Overview
+
 This project was part of a ironhack in Germany, where we trained to become skilled devops and cloud engineers with a focus on Git/GitHub, and collaboration practices. During this Bootcamp, we had the chance to work on real-world projects and enhance our teamwork and technical skills.
 
