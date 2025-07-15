@@ -40,10 +40,8 @@ Get hands-on experience with the full cycle of software development, from planni
 🔧 How to Run
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/mirmika/git-collaboration-lab.git
+
 Open index.html in your browser to view the page.
 
 🎓 Bootcamp Overview
